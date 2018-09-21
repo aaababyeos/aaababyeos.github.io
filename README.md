@@ -1,2 +1,2 @@
 # aaababyeos.github.io
-whitepager
+whitepaper
